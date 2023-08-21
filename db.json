@@ -79,6 +79,16 @@
       "city": "",
       "country": "",
       "id": 4
+    },
+    {
+      "city": "Nairobi",
+      "country": "China",
+      "id": 5
+    },
+    {
+      "city": "Nairobi",
+      "country": "India",
+      "id": 6
     }
   ]
 }
